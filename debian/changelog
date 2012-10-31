@@ -1,0 +1,5 @@
+flask-sqlalchemy (0.16-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Armin Ronacher <armin.ronacher@active-4.com>  Wed, 31 Oct 2012 13:49:57 +0100

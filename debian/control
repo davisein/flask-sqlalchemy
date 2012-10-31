@@ -1,0 +1,25 @@
+Source: flask-sqlalchemy
+Maintainer: Armin Ronacher <armin.ronacher@active-4.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-flask-sqlalchemy
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Adds SQLAlchemy support to your Flask application
+ .
+ Flask-SQLAlchemy
+ ----------------
+ .
+ Adds SQLAlchemy support to your Flask application.
+ .
+ Links
+ `````
+ .
+ * `documentation <http://packages.python.org/Flask-SQLAlchemy>`_
+ * `development version
+   <http://github.com/mitsuhiko/flask-sqlalchemy/zipball/master#egg=Flask-SQLAlchemy-dev>`_
+ .
+ .
